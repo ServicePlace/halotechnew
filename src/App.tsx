@@ -71,14 +71,13 @@ function Hero() {
             className="electric-button px-8 py-3 bg-gradient-to-r from-yellow-500 to-yellow-300 rounded-full text-black font-semibold transition-all"
           >
             <Coins className="inline-block mr-2 h-5 w-5" />
-            Buy $HaloTech
+            <a href="https://geckoterminal.com/solana/pools/4HRP1p1SzFGdiyAnkJ8dYVbXBdJPe7hyLYVJ7n3Hff7m" target="_blank" rel="noopener noreferrer">Buy $HaloTech</a>
           </motion.button>
         </div>
       </div>
     </motion.section>
   );
 }
-
 function Features() {
   return (
     <section className="relative z-10 py-20 px-4">
