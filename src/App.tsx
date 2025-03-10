@@ -375,7 +375,7 @@ function Footer() {
           © 2025 HaloTech. All rights reserved.
         </div>
         <div className="flex space-x-6">
-          <a href="#" className="text-yellow-400 hover:text-yellow-300 transition-colors">
+          <a href="https://x.com/HaloTechCoin" className="text-yellow-400 hover:text-yellow-300 transition-colors">
             <Twitter className="h-6 w-6" />
           </a>
           <a href="#" className="text-yellow-400 hover:text-yellow-300 transition-colors">
